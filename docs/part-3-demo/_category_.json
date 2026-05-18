@@ -1,0 +1,10 @@
+{
+  "label": "Part 3 — Demo & Testing",
+  "position": 5,
+  "collapsible": true,
+  "collapsed": false,
+  "link": {
+    "type": "doc",
+    "id": "part-3-demo/index"
+  }
+}

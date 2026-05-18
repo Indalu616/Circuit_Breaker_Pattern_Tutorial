@@ -1,0 +1,10 @@
+{
+  "label": "Part 2 — Load Balancer",
+  "position": 4,
+  "collapsible": true,
+  "collapsed": false,
+  "link": {
+    "type": "doc",
+    "id": "part-2-load-balancer/index"
+  }
+}
